@@ -13,6 +13,6 @@ class Solution:
             hashset.add(n)
         return False
 
-nums = [1,2,3,4]
+nums = [1,2,3,1]
 x = Solution()
 print(x.containsDuplicate(nums))
