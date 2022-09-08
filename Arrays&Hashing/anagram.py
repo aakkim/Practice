@@ -25,7 +25,7 @@ t = 'nagaram'
 x = Solution()
 print(x.isAnagram(s,t))
 
-
+# OR
 
 class Solution:
     def isAnagram(self, s:str, t:str) -> bool:
